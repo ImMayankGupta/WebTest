@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.automation.report.ResultsIT" duration-ms="4736" started-at="2018-05-29T13:05:54Z" finished-at="2018-05-29T13:05:58Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="4736" started-at="2018-05-29T13:05:54Z" finished-at="2018-05-29T13:05:58Z">
+      <class name="com.automation.report.ResultsIT">
+        <test-method status="PASS" signature="setupMailConfig()[pri:0, instance:com.automation.report.ResultsIT@1bb78ae]" name="setupMailConfig" is-config="true" duration-ms="11" started-at="2018-05-29T18:35:54Z" finished-at="2018-05-29T18:35:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMailConfig -->
+        <test-method status="PASS" signature="sendResultsMail()[pri:0, instance:com.automation.report.ResultsIT@1bb78ae]" name="sendResultsMail" duration-ms="4712" started-at="2018-05-29T18:35:54Z" finished-at="2018-05-29T18:35:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendResultsMail -->
+      </class> <!-- com.automation.report.ResultsIT -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.automation.report.ResultsIT -->
+</testng-results>

@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[
+The application url is :- http://automationpractice.com/index.php]]>
+    </line>
+    <line>
+      <![CDATA[The test browser is :- chrome
+]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TEST1_VERIFYSIGNUPFUNCTIONALITY *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Step: clicked on Sign In icon 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: successfully entered email address in create account box 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: clicked on create account button 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: successfully entered personal information 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: successfully verified details on my account page 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: clicked on Sign out button 
+]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** Completed TEST STEP:- TEST1_VERIFYSIGNUPFUNCTIONALITY *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TEST2_VERIFYLOGINFUNCTIONALITY *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Step: clicked on Sign In icon 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: entered email address and password in login form 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: clicked on Login button 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: successfully verified details on my account page 
+]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** Completed TEST STEP:- TEST2_VERIFYLOGINFUNCTIONALITY *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** STARTING TEST STEP:- TEST3_VERIFYCHECKOUTFUNCTIONALITY *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[Step: clicked on Women tab 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: selected item to cart 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: clicked on proceed to checkout button on summary page 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: clicked on proceed to checkout button on sign in page 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: clicked on proceed to checkout button on address page 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: select terms and service 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: clicked on proceed to checkout button on shipping page 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: selected payment option 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: clicked on confirm order button 
+]]>
+    </line>
+    <line>
+      <![CDATA[Step: successfully verified details on confirmation page
+]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[***** Completed TEST STEP:- TEST3_VERIFYCHECKOUTFUNCTIONALITY *****]]>
+    </line>
+    <line>
+      <![CDATA[ ]]>
+    </line>
+    <line>
+      <![CDATA[
+]]>
+    </line>
+  </reporter-output>
+  <suite name="Web Test Automation" duration-ms="155877" started-at="2018-05-29T13:03:15Z" finished-at="2018-05-29T13:05:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="155877" started-at="2018-05-29T13:03:15Z" finished-at="2018-05-29T13:05:51Z">
+      <class name="com.automation.tests.WebTest">
+        <test-method status="PASS" signature="Start_Test_Session()[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="Start_Test_Session" is-config="true" duration-ms="17647" started-at="2018-05-29T18:33:15Z" finished-at="2018-05-29T18:33:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+The application url is :- http://automationpractice.com/index.php]]>
+            </line>
+            <line>
+              <![CDATA[The test browser is :- chrome
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Start_Test_Session -->
+        <test-method status="PASS" signature="test1_verifySignUpFunctionality()[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="test1_verifySignUpFunctionality" duration-ms="69071" started-at="2018-05-29T18:33:33Z" finished-at="2018-05-29T18:34:42Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Step: clicked on Sign In icon 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: successfully entered email address in create account box 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: clicked on create account button 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: successfully entered personal information 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: successfully verified details on my account page 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: clicked on Sign out button 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1_verifySignUpFunctionality -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2018-05-29T18:33:33Z" finished-at="2018-05-29T18:33:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.tests.WebTest.test1_verifySignUpFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TEST1_VERIFYSIGNUPFUNCTIONALITY *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="handleTestMethod(java.lang.reflect.Method)[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="handleTestMethod" is-config="true" duration-ms="1" started-at="2018-05-29T18:34:42Z" finished-at="2018-05-29T18:34:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.tests.WebTest.test1_verifySignUpFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** Completed TEST STEP:- TEST1_VERIFYSIGNUPFUNCTIONALITY *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethod -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="take_screenshot_on_failure" is-config="true" duration-ms="1" started-at="2018-05-29T18:34:42Z" finished-at="2018-05-29T18:34:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test1_verifySignUpFunctionality status=SUCCESS method=WebTest.test1_verifySignUpFunctionality()[pri:0, instance:com.automation.tests.WebTest@6537cf78] output=Step: clicked on Sign In icon 
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="handleTestMethodName" is-config="true" duration-ms="1" started-at="2018-05-29T18:34:42Z" finished-at="2018-05-29T18:34:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.tests.WebTest.test2_verifyLogInFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TEST2_VERIFYLOGINFUNCTIONALITY *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="test2_verifyLogInFunctionality()[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="test2_verifyLogInFunctionality" duration-ms="20564" started-at="2018-05-29T18:34:42Z" finished-at="2018-05-29T18:35:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Step: clicked on Sign In icon 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: entered email address and password in login form 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: clicked on Login button 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: successfully verified details on my account page 
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2_verifyLogInFunctionality -->
+        <test-method status="PASS" signature="handleTestMethod(java.lang.reflect.Method)[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="handleTestMethod" is-config="true" duration-ms="1" started-at="2018-05-29T18:35:02Z" finished-at="2018-05-29T18:35:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.tests.WebTest.test2_verifyLogInFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** Completed TEST STEP:- TEST2_VERIFYLOGINFUNCTIONALITY *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethod -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="take_screenshot_on_failure" is-config="true" duration-ms="1" started-at="2018-05-29T18:35:02Z" finished-at="2018-05-29T18:35:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test2_verifyLogInFunctionality status=SUCCESS method=WebTest.test2_verifyLogInFunctionality()[pri:0, instance:com.automation.tests.WebTest@6537cf78] output=Step: clicked on Sign In icon 
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="handleTestMethodName(java.lang.reflect.Method)[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="handleTestMethodName" is-config="true" duration-ms="0" started-at="2018-05-29T18:35:02Z" finished-at="2018-05-29T18:35:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.tests.WebTest.test3_verifyCheckOutFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** STARTING TEST STEP:- TEST3_VERIFYCHECKOUTFUNCTIONALITY *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethodName -->
+        <test-method status="PASS" signature="test3_verifyCheckOutFunctionality()[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="test3_verifyCheckOutFunctionality" duration-ms="47607" started-at="2018-05-29T18:35:02Z" finished-at="2018-05-29T18:35:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Step: clicked on Women tab 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: selected item to cart 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: clicked on proceed to checkout button on summary page 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: clicked on proceed to checkout button on sign in page 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: clicked on proceed to checkout button on address page 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: select terms and service 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: clicked on proceed to checkout button on shipping page 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: selected payment option 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: clicked on confirm order button 
+]]>
+            </line>
+            <line>
+              <![CDATA[Step: successfully verified details on confirmation page
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test3_verifyCheckOutFunctionality -->
+        <test-method status="PASS" signature="handleTestMethod(java.lang.reflect.Method)[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="handleTestMethod" is-config="true" duration-ms="1" started-at="2018-05-29T18:35:50Z" finished-at="2018-05-29T18:35:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.automation.tests.WebTest.test3_verifyCheckOutFunctionality()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+            <line>
+              <![CDATA[***** Completed TEST STEP:- TEST3_VERIFYCHECKOUTFUNCTIONALITY *****]]>
+            </line>
+            <line>
+              <![CDATA[ ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handleTestMethod -->
+        <test-method status="PASS" signature="take_screenshot_on_failure(org.testng.ITestResult)[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="take_screenshot_on_failure" is-config="true" duration-ms="1" started-at="2018-05-29T18:35:50Z" finished-at="2018-05-29T18:35:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test3_verifyCheckOutFunctionality status=SUCCESS method=WebTest.test3_verifyCheckOutFunctionality()[pri:0, instance:com.automation.tests.WebTest@6537cf78] output=Step: clicked on Women tab 
+]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- take_screenshot_on_failure -->
+        <test-method status="PASS" signature="close_Test_Session()[pri:0, instance:com.automation.tests.WebTest@6537cf78]" name="close_Test_Session" is-config="true" duration-ms="865" started-at="2018-05-29T18:35:50Z" finished-at="2018-05-29T18:35:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- close_Test_Session -->
+      </class> <!-- com.automation.tests.WebTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Web Test Automation -->
+</testng-results>

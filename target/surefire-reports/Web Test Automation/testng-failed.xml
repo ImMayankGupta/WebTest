@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Web Test Automation]" parallel="tests">
+  <test name="Test">
+    <classes>
+      <class name="com.automation.tests.WebTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Web Test Automation] -->

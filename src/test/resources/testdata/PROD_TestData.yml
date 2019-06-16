@@ -1,0 +1,21 @@
+
+loginUrl: http://automationpractice.com/index.php
+name: Firstname
+surname: Lastname
+password: Qwerty
+existingUserEmail: hf_challenge_123456@hf12345.com
+existingUserPassword: 12345678
+firstname: Joe
+lastname: Black
+post: 12345
+phone: 12345123123
+mobile: 12345123123
+resultPage:
+  resultText: results
+
+  
+email: 
+  send: true
+  recepients: 
+      recepient1: mayankgupta654@gmail.com
+  

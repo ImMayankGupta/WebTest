@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Web Test Automation"  parallel = "tests" thread-count="1">
+	
+	<test name="Chrome Test">
+	<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.automation.tests.WebTest" />
+		</classes>
+	</test>
+	<test name="Firefox Test">
+	<parameter name="browser" value="Firefox" />
+		<classes>
+			<class name="com.automation.tests.WebTest" />
+		</classes>
+	</test>
+</suite>
